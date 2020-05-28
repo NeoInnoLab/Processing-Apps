@@ -1,17 +1,17 @@
 # Processing  
-Hello! This is my Processing side projects collections. 
+Hello! This is my Processing side projects collections.   
 I love to visualize the process of the algorithm from the trivial code.  
 Most of them are written in Java, and some are in JavaScript.  
 So, Why not just take a look and enjoy in the coding world?  
 
 2D Water  
-![](https://github.com/Shanda1020/Processing/blob/master/2D_Water/2D_water.JPG?raw=true)  
+![](https://github.com/Shanda1020/Processing/blob/master/2D_Water/2D_water.JPG?raw=true)
   
-Brightness
-![](https://github.com/Shanda1020/Processing/blob/master/Brightness/sketch_Brightness.JPG?raw=true)  
+Brightness  
+![](https://github.com/Shanda1020/Processing/blob/master/Brightness/sketch_Brightness.JPG?raw=true)
   
 BubbleSort  
-![](https://github.com/Shanda1020/Processing/blob/master/BubbleSort/Sorting.JPG?raw=true) 
+![](https://github.com/Shanda1020/Processing/blob/master/BubbleSort/Sorting.JPG?raw=true)
   
 Lissajous  
 ![](https://github.com/Shanda1020/Processing/blob/master/Lissajous/lissajous.gif?raw=true)  
