@@ -2,7 +2,7 @@
 Hello! This is my Processing side projects collections.   
 I like to visualize the process of the algorithm from the trivial code.  
 Most of them are written in Java, and some are in JavaScript.  
-So, Why not just take a look and enjoy in the coding world?  
+Please take a look :)
 
 ## 2D Water 💧
 ![](https://github.com/Shanda1020/Processing/blob/master/2D_Water/2D_water.JPG?raw=true)  
