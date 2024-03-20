@@ -1,8 +1,8 @@
-# Processing  
-Hello! This is my Processing side projects collections.   
-I like to visualize the process of the algorithm from the trivial code.  
+# Processing Apps
+Hello! Welcome to my collection of Processing side projects, the cornerstone of my journey into the world of coding.  
+My passion lies in bringing algorithms to life, transforming abstract concepts into tangible visuals through code.
 Most of them are written in Java, and some are in JavaScript.  
-Please take a look :)
+Enjoy your visit! :)
 
 ## 2D Water 💧
 ![](https://github.com/Shanda1020/Processing/blob/master/2D_Water/2D_water.JPG?raw=true)  
